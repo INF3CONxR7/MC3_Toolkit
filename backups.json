@@ -1,0 +1,35 @@
+{
+  "format": 1,
+  "backups": [
+    {
+      "title": "Kagura V4",
+      "creator": "AzeY",
+      "version": "v4.0",
+      "description": "Une backup complète avec un monde détaillé, des builds uniques et de nombreuses fonctionnalités.",
+      "tags": ["PS3", "Minecraft", "Backup"],
+      "image": "images/kagura-v4.jpg",
+      "download": "telechargements/kagura-v4.zip",
+      "verified": true
+    },
+    {
+      "title": "GX V4",
+      "creator": "Guillaume ZRK",
+      "version": "v4.0",
+      "description": "Une backup orientée survie et créatif avec de nombreux bâtiments, systèmes et un monde riche en contenu.",
+      "tags": ["PS3", "Minecraft", "Backup"],
+      "image": "images/gx-v4.jpg",
+      "download": "telechargements/gx-v4.zip",
+      "verified": true
+    },
+    {
+      "title": "UNIVERSE V1.5",
+      "creator": "Midian CooL",
+      "version": "v1.5",
+      "description": "Une backup massive avec un monde immense, des structures exceptionnelles et une expérience de jeu unique.",
+      "tags": ["PS3", "Minecraft", "Backup"],
+      "image": "images/universe-v1.5.jpg",
+      "download": "telechargements/universe-v1.5.zip",
+      "verified": false
+    }
+  ]
+}
