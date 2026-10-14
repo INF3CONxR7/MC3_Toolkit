@@ -8,8 +8,10 @@
       "description": "Une backup complète avec un monde détaillé, des builds uniques et de nombreuses fonctionnalités.",
       "tags": ["PS3", "Minecraft", "Backup"],
       "image": "images/kagura-v4.jpg",
-      "download": "https://azeydev.github.io/Kagura-Website/download%20-%20Kagura%20V4.html",
-      "verified": true
+      "verified": true,
+      "downloads": [
+        { "label": "Site de Kagura", "url": "https://azeydev.github.io/Kagura-Website/download%20-%20Kagura%20V4.html" }
+      ]
     },
     {
       "title": "GX V4",
@@ -18,8 +20,13 @@
       "description": "Une backup orientée survie et créatif avec de nombreux bâtiments, systèmes et un monde riche en contenu.",
       "tags": ["PS3", "Minecraft", "Backup"],
       "image": "images/gx-v4.jpg",
-      "download": "telechargements/gx-v4.zip",
-      "verified": true
+      "verified": true,
+      "downloads": [
+        { "edition": "NPEB01899", "url": "COLLE_ICI_LE_LIEN_MEDIAFIRE" },
+        { "edition": "BLES01976", "url": "COLLE_ICI_LE_LIEN_MEDIAFIRE" },
+        { "edition": "NPUB31419", "url": "COLLE_ICI_LE_LIEN_MEDIAFIRE" },
+        { "edition": "BLUS31426", "url": "COLLE_ICI_LE_LIEN_MEDIAFIRE" }
+      ]
     },
     {
       "title": "UNIVERSE V1.5",
@@ -28,8 +35,8 @@
       "description": "Une backup massive avec un monde immense, des structures exceptionnelles et une expérience de jeu unique.",
       "tags": ["PS3", "Minecraft", "Backup"],
       "image": "images/universe-v1.5.jpg",
-      "download": "telechargements/universe-v1.5.zip",
-      "verified": true
+      "verified": true,
+      "downloads": []
     }
   ]
 }
