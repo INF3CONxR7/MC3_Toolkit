@@ -22,10 +22,10 @@
       "image": "images/gx-v4.jpg",
       "verified": true,
       "downloads": [
-        { "edition": "NPEB01899", "url": "COLLE_ICI_LE_LIEN_MEDIAFIRE" },
-        { "edition": "BLES01976", "url": "COLLE_ICI_LE_LIEN_MEDIAFIRE" },
-        { "edition": "NPUB31419", "url": "COLLE_ICI_LE_LIEN_MEDIAFIRE" },
-        { "edition": "BLUS31426", "url": "COLLE_ICI_LE_LIEN_MEDIAFIRE" }
+        { "edition": "NPEB01899", "url": "https://www.mediafire.com/file/eqff2jq3kxfij4f/GX_V4_NPEB01899.rar/file" },
+        { "edition": "BLES01976", "url": "https://www.mediafire.com/file/bh6cei9zccq2f33/GX_V4_BLES01976.rar/file" },
+        { "edition": "NPUB31419", "url": "https://www.mediafire.com/file/br0v8xr1goqqvdg/GX_V4_NPUB31419.rar/file" },
+        { "edition": "BLUS31426", "url": "https://www.mediafire.com/file/2rj9shc3bucz430/GX_V4_BLUS31426.rar/file" }
       ]
     },
     {
@@ -36,7 +36,10 @@
       "tags": ["PS3", "Minecraft", "Backup"],
       "image": "images/universe-v1.5.jpg",
       "verified": true,
-      "downloads": []
+      "downloads": [
+        { "label": "PKGs", "url": "https://drive.google.com/drive/folders/1wjm6Te5fsSDt0Jl0957WTbCeUzkXtgI5" },
+        { "label": "Backup", "url": "https://drive.google.com/drive/folders/1UOy8TjJeEPobeLYwpGGYVIBe0pQB7raP" }
+      ]
     }
   ]
 }
