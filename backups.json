@@ -29,7 +29,7 @@
       "tags": ["PS3", "Minecraft", "Backup"],
       "image": "images/universe-v1.5.jpg",
       "download": "telechargements/universe-v1.5.zip",
-      "verified": false
+      "verified": true
     }
   ]
 }
