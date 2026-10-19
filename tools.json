@@ -31,6 +31,16 @@
       "author": "INF3CONxR7",
       "page": "https://github.com/INF3CONxR7/Converter_AT3"
     },
+    {
+      "id": "ida-pro",
+      "version": "7.5",
+      "url": "https://github.com/INF3CONxR7/IDA_Pro/releases/download/v7.5/IDA.Pro.7.5.zip",
+      "size": 413678585,
+      "sha256": "",
+      "executable": "IDA Pro 7.5/ida64.exe",
+      "author": "Hex-Rays",
+      "page": "https://hex-rays.com/ida-pro/"
+    },
     { "id": "bink" },
     { "id": "fui" },
     { "id": "loc" },
