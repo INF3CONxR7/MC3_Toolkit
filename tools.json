@@ -36,8 +36,8 @@
       "version": "7.5",
       "url": "https://github.com/INF3CONxR7/IDA_Pro/releases/download/v7.5/IDA.Pro.7.5.zip",
       "size": 413678585,
-      "sha256": "",
-      "executable": "IDA Pro 7.5/ida64.exe",
+      "sha256": "9c3ae128c88052909507870cb021694263bcdbfbc415794e45581977aba7805d",
+      "executable": "IDA Pro 7.5/ida.exe",
       "author": "Hex-Rays",
       "page": "https://hex-rays.com/ida-pro/"
     },
