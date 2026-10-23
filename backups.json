@@ -49,6 +49,13 @@
       "url": "https://github.com/INF3CONxR7/MC3_Backups_Originales/releases/download/1.84/NPEB01899-1.84.zip",
       "size": 1208027459,
       "sha256": "f4f7a4b3cea563569cfa7e76dd3cc51070dcee487f682a231052e31b414a8b9c"
+    },
+    {
+      "edition": "NPUB31419",
+      "version": "1.84",
+      "url": "https://github.com/INF3CONxR7/MC3_Backups_Originales/releases/download/1.84/NPUB31419-1.84.zip",
+      "size": 1205655028,
+      "sha256": "bace80fa81cebfb94aa18097c90e8ba1b827082768a9f4a7b1adb2df607cc014"
     }
   ]
 }
