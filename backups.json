@@ -3,6 +3,7 @@
   "backups": [
     {
       "title": "Kagura V4",
+      "type": "backup",
       "creator": "AzeY",
       "version": "v4.0",
       "description": "Une backup complète avec un monde détaillé, des builds uniques et de nombreuses fonctionnalités.",
@@ -15,6 +16,7 @@
     },
     {
       "title": "GX V4",
+      "type": "backup",
       "creator": "Guillaume ZRK",
       "version": "v4.0",
       "description": "Une backup orientée survie et créatif avec de nombreux bâtiments, systèmes et un monde riche en contenu.",
@@ -30,6 +32,7 @@
     },
     {
       "title": "UNIVERSE V1.5",
+      "type": "backup",
       "creator": "Midian CooL",
       "version": "v1.5",
       "description": "Une backup massive avec un monde immense, des structures exceptionnelles et une expérience de jeu unique.",
@@ -48,7 +51,7 @@
       "version": "v2.0",
       "description": "Le client SPRX d’AzeY pour Minecraft PS3, en version démo : WorldEdit (deux coins sélectionnés à la hache en bois, puis la zone vidée ou remplie en une action), Kaura 4.0 en démonstration et images personnalisées (arrière-plan, bannière, ciel). Pour une PS3 avec HEN ou CFW.",
       "tags": ["PS3", "Minecraft", "SPRX"],
-      "image": "https://raw.githubusercontent.com/INF3CONxR7/KaguraClientV2-Demo/main/KaguraClientV2Demo/Banner/Banner.png",
+      "image": "images/kaguraclient-v2-demo.jpg",
       "verified": true,
       "downloads": [
         { "label": "Démo (GitHub)", "url": "https://github.com/INF3CONxR7/KaguraClientV2-Demo/releases/download/v2.0-demo/KaguraClientV2-Demo.zip" },
