@@ -1,0 +1,127 @@
+{
+  "format": 1,
+  "tools": [
+    {
+      "id": "paintnet",
+      "version": "5.2",
+      "url": "https://github.com/paintdotnet/release/releases/download/v5.2/paint.net.5.2.portable.x64.zip",
+      "size": 142070595,
+      "sha256": "2689a4fe58f91605d210c4481f16fb503b6f6ad4edd7f397251c8d9e7de8928b",
+      "executable": "paintdotnet.exe",
+      "author": "Rick Brewster",
+      "page": "https://www.getpaint.net"
+    },
+    {
+      "id": "sfo",
+      "version": "1.0.0",
+      "url": "https://github.com/INF3CONxR7/SFO-Editor-Ultimate/releases/download/v1.0.0/SFOEditorUltimate-win-x64.zip",
+      "size": 92425926,
+      "sha256": "5e2dc1386f147798d6284e5c8ff69d34a7b3b9569435c807f1cbd4e59c47d8c4",
+      "executable": "SFOEditorUltimate-win-x64/SFO Editor Ultimate.exe",
+      "author": "INF3CONxR7",
+      "page": "https://github.com/INF3CONxR7/SFO-Editor-Ultimate"
+    },
+    {
+      "id": "pam",
+      "version": "1.0.0",
+      "url": "https://github.com/INF3CONxR7/PAM_Forge/releases/download/v1.0.0/PAMForge-win-x64.zip",
+      "size": 201892963,
+      "sha256": "97a05ff3b32cb8ed0ec2d1cc01643a1db6e7cf6d56958922e31c7d013bdabd8b",
+      "executable": "PAMForge-win-x64/PAM Forge.exe",
+      "author": "INF3CONxR7",
+      "page": "https://github.com/INF3CONxR7/PAM_Forge"
+    },
+    {
+      "id": "at3",
+      "version": "1.0.1",
+      "url": "https://github.com/INF3CONxR7/Converter_AT3/releases/download/v1.0.1/ConverterAT3-win-x64.zip",
+      "size": 92698287,
+      "sha256": "46df33bbfb8ae89374e530b10133d05312ace60b143e951ac398075544574dc2",
+      "executable": "ConverterAT3-win-x64/Converter AT3.exe",
+      "author": "INF3CONxR7",
+      "page": "https://github.com/INF3CONxR7/Converter_AT3"
+    },
+    {
+      "id": "binka",
+      "version": "1.1.1",
+      "url": "https://github.com/INF3CONxR7/Binka_Studio/releases/download/v1.1.1/BinkaStudio-win-x64.zip",
+      "size": 92912213,
+      "sha256": "e1cb2dd7428847c9e5a57a4874e20061f5cde5fe66548763db41ed275fb2fa82",
+      "executable": "BinkaStudio-win-x64/Binka Studio.exe",
+      "author": "INF3CONxR7",
+      "page": "https://github.com/INF3CONxR7/Binka_Studio"
+    },
+    {
+      "id": "msscmp",
+      "version": "1.0.1",
+      "url": "https://github.com/INF3CONxR7/MSSCMP_Editor/releases/download/v1.0.1/MSSCMPEditor-win-x64.zip",
+      "size": 92906291,
+      "sha256": "bb00c76c0be524bcefbb44f04af6c776c02ca999b01dff16873bdba8f25b1456",
+      "executable": "MSSCMPEditor-win-x64/MSSCMP Editor.exe",
+      "author": "INF3CONxR7",
+      "page": "https://github.com/INF3CONxR7/MSSCMP_Editor"
+    },
+    {
+      "id": "mcs-studio",
+      "version": "1.0.1",
+      "url": "https://github.com/INF3CONxR7/MCS_Studio/releases/download/v1.0.1/MCSStudio-win-x64.zip",
+      "size": 93711651,
+      "sha256": "2fc5405afe1daa1ea54bbc6db1e3fed9986bbfdfbea157dca7217e69268d708c",
+      "executable": "MCSStudio-win-x64/MCS Studio.exe",
+      "author": "INF3CONxR7",
+      "page": "https://github.com/INF3CONxR7/MCS_Studio"
+    },
+    {
+      "id": "pck",
+      "version": "7.1.2",
+      "url": "https://github.com/INF3CONxR7/PCK_Studio/releases/download/7.1.2/PCK-Studio.zip",
+      "size": 8264926,
+      "sha256": "be97083da931975ac32c639eb3a4a83a3dade5270b36ceb8c0d06c42ebb7b4f7",
+      "executable": "PCK-Studio/PCK-Studio.exe",
+      "author": "PhoenixARC et contributeurs",
+      "page": "https://github.com/LCERD/PCK-Studio"
+    },
+    {
+      "id": "arc",
+      "version": "1.1.3",
+      "url": "https://github.com/INF3CONxR7/ARC_Editor/releases/download/v1.1.3/ARCEditor-win-x64.zip",
+      "size": 92616962,
+      "sha256": "26b7474c25241f8723f1b4e6a699e07abbdf5f3af7de9db404cd849e64ca7030",
+      "executable": "ARCEditor-win-x64/ARC Editor.exe",
+      "author": "INF3CONxR7",
+      "page": "https://github.com/INF3CONxR7/ARC_Editor"
+    },
+    {
+      "id": "spark",
+      "version": "1.0.0",
+      "url": "https://github.com/INF3CONxR7/Spark_Model_Editor/releases/download/v1.0.0/SparkModelEditor-win-x64.zip",
+      "size": 92597499,
+      "sha256": "8d6ba3e23c2afa8482ed5332216f6d0179153cdab986e0c05a556631f102b3d0",
+      "executable": "SparkModelEditor-win-x64/Spark Model Editor.exe",
+      "author": "INF3CONxR7",
+      "page": "https://github.com/INF3CONxR7/Spark_Model_Editor"
+    },
+    {
+      "id": "ida-pro",
+      "name": "IDA Pro",
+      "version": "7.5",
+      "url": "https://github.com/INF3CONxR7/IDA_Pro/releases/download/v7.5/IDA.Pro.7.5.zip",
+      "size": 413678585,
+      "sha256": "9c3ae128c88052909507870cb021694263bcdbfbc415794e45581977aba7805d",
+      "executable": "IDA Pro 7.5/ida.exe",
+      "author": "Hex-Rays",
+      "page": "https://hex-rays.com/ida-pro/"
+    },
+    {
+      "id": "mcs",
+      "version": "1.0.0",
+      "url": "https://github.com/INF3CONxR7/MCC_Tool_Chest/releases/download/v1.0.0/MCCToolChest.zip",
+      "size": 4686718,
+      "sha256": "56abe78a7203921f75113c703949c9d99c28c1b793d08a57a02f98a45cb5b203",
+      "executable": "MCCToolChest/MCCToolChest.exe",
+      "author": "A Cynodont et RedstonerLabs",
+      "page": "https://mcctoolchest.weebly.com/"
+    },
+    { "id": "explorer" }
+  ]
+}
